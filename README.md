@@ -43,7 +43,7 @@ Bagi anda yang belum tahu cara instalasi template ini, bisa simak tutorial berik
   <li>Buka blogger.com > klik Template.</li>
   <li>Lalu klik > Pulihkan > Upload > Pilih template Mediumish-Blogger-MasTekno.xml</li>
   <li>Tunggu sampai selesai...</li>
-<ol>
+</ol>
 
 
 😄 Sekian tutorial dari saya, semoga bermanfaat.
