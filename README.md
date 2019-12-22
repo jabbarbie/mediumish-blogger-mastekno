@@ -6,6 +6,8 @@ Template ini sangat seo dan fast loading, karena memang banyak sekali penggemarn
 <br/>
   <img src="https://4.bp.blogspot.com/-Z9thiRBk5U0/Xf9CkKzp57I/AAAAAAAACjQ/NjMp2Un-NzcN2UvInN4l2998iyOdHdvUACLcBGAsYHQ/s1600/demo-mediumish2.jpg"/>
 <br/>
+  <center><h1><a href="https://mediumish-blogger.blogspot.com/">DEMO TEMPLATE"</a></h1></center>  
+
 </p>
 <h3>Fitur Mediumish Blogger</h3>
 <table cellpadding="0" cellspacing="0" style="text-align: left;"><tbody>
