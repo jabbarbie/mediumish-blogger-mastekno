@@ -35,3 +35,15 @@ Template ini sangat seo dan fast loading, karena memang banyak sekali penggemarn
   <li>Dan kelebihan lainya....</li>
 </ul>
 
+
+<h2>Cara Instalasi</h2>
+Bagi anda yang belum tahu cara instalasi template ini, bisa simak tutorial berikut
+<ol>
+  <li>Langkah pertama, download template yang sudah ada.</li>
+  <li>Buka blogger.com > klik Template.</li>
+  <li>Lalu klik > Pulihkan > Upload > Pilih template Mediumish-Blogger-MasTekno.xml</li>
+  <li>Tunggu sampai selesai...</li>
+<ol>
+
+
+😄 Sekian tutorial dari saya, semoga bermanfaat.
