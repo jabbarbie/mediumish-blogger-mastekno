@@ -52,7 +52,7 @@ Bagi anda yang belum tahu cara instalasi template ini, bisa simak tutorial berik
   <li>Disitu tersedia tiga warna merah, biru dan gelap</li>
  </ol>
  <br/>
- <h2>Kode Yang Perlu Diganti<h2>
+ <h2>Kode Yang Perlu Diganti</h2>
   Silahkan kalian cari kode berikut, jika menggunakan pc klik CTRL+F. Lalu cari kode berikut, dan sesuaikan sendiri.
   <ul>
     <li><strong>ID-DISQUSMU</strong> di ubah sesuai id disqus. Atau buat dulu di disqus.com</li>
