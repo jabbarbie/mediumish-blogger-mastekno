@@ -4,6 +4,8 @@ Dibuat secara gratis, dan banyak website (khususnya wordpress) ternama menggunaa
 Template ini sangat seo dan fast loading, karena memang banyak sekali penggemarnya. Namun versi wordpressnya yang merupakan rilisan resmi sangat mahal, tapi di sini bisa kalian gunakan. Jika anda pengguna blogger, dapat memasangnya sebagai template untuk blog utama.<br/>
 <img src="https://4.bp.blogspot.com/-s5B4OYSr0f8/Xf9CkWFmYBI/AAAAAAAACjU/QNPBb5iqImYMr_HNRoZvyBeA96SO792ZwCLcBGAsYHQ/s1600/demo-mediumish.jpg"/>
 <br/>
+  <img src="https://4.bp.blogspot.com/-Z9thiRBk5U0/Xf9CkKzp57I/AAAAAAAACjQ/NjMp2Un-NzcN2UvInN4l2998iyOdHdvUACLcBGAsYHQ/s1600/demo-mediumish2.jpg"/>
+<br/>
 </p>
 <h3>Fitur Mediumish Blogger</h3>
 <table cellpadding="0" cellspacing="0" style="text-align: left;"><tbody>
