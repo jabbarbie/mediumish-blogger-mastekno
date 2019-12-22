@@ -45,5 +45,6 @@ Bagi anda yang belum tahu cara instalasi template ini, bisa simak tutorial berik
   <li>Tunggu sampai selesai...</li>
 </ol>
 
-
+Selengkapnya di : <a href="https://www.mastekno.com/id/mediumish-blogger">https://www.mastekno.com/id/mediumish-blogger</a>.<br/>
+Credit : <a href="https://www.mastekno.com/">https://www.mastekno.com</a>
 😄 Sekian tutorial dari saya, semoga bermanfaat.
