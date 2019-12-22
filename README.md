@@ -45,6 +45,13 @@ Bagi anda yang belum tahu cara instalasi template ini, bisa simak tutorial berik
   <li>Tunggu sampai selesai...</li>
 </ol>
 <br/>
+<h2>Cara Ganti Warna Template</h2>
+<ol>
+  <li>Buka Blogger > Template > Edit HTML</li>
+  <li>Lalu cari kode <strong>mediumish-green.css</strong> > Ubah sesuai kinginan kalian : mediumish-red.css / mediumish-blue.css / mediumish-dark.css</li>
+  <li>Disitu tersedia tiga warna merah, biru dan gelap</li>
+ </ol>
+ <br/>
 Selengkapnya di : https://www.mastekno.com/id/mediumish-blogger.<br/>
 Credit : https://www.mastekno.com<br/>
 😄 Sekian tutorial dari saya, semoga bermanfaat.
