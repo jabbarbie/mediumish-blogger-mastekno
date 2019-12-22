@@ -52,6 +52,14 @@ Bagi anda yang belum tahu cara instalasi template ini, bisa simak tutorial berik
   <li>Disitu tersedia tiga warna merah, biru dan gelap</li>
  </ol>
  <br/>
+ <h2>Kode Yang Perlu Diganti<h2>
+  Silahkan kalian cari kode berikut, jika menggunakan pc klik CTRL+F. Lalu cari kode berikut, dan sesuaikan sendiri.
+  <ul>
+    <li><strong>ID-DISQUSMU</strong> di ubah sesuai id disqus. Atau buat dulu di disqus.com</li>
+    <li><strong>SESUAIKAN_TRACKING_ANALYTICS</strong> isi dengan ID Google Analytic WEB kamu, contohnya <strong>UA-1234567-1</strong>.
+    <li><strong>ca-pub-ID-PUB-ANDA</strong> isi dengan PUB id anda. contohnya <strong>ca-pub-123456789</strong>.
+  </ul>
+ <br/>
  <h2>Posting Artikel</h2>
 Apabila anda menemui di artikel gambar utama ada dua, kalian bisa menambahkan <strong>style="display:none"</strong> pada html kode gambar utama (hanya gambar utama) di urutan nomer 1.
  
