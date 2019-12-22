@@ -14813,7 +14813,8 @@ img {
 }
 
 .breadcrumbs {
-  margin-bottom: -25px
+  margin-bottom: -25px;
+  font-size: 11px;
 }
 
 .breadcrumbs a {
@@ -15386,6 +15387,7 @@ a.dropdown-item:hover {
 h1.entry-title {
   font-weight: 700;
   margin-bottom: 1rem;
+  font-size: 30px;
 }
 
 .search-form .screen-reader-text {
